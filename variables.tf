@@ -1,4 +1,5 @@
 variable "perfil" {
+  default = "AlvaroB"
 }
 
 variable "region" {
